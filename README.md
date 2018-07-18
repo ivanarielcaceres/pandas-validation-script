@@ -55,7 +55,7 @@ For the versions available, see the [tags on this repository](https://github.com
 
 ## Authors
 
-* **Iván Cáceres** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Iván Cáceres**
 
 ## License
 
