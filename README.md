@@ -15,7 +15,7 @@ The requisites is defined in requirements.txt file
 pip install -r requirements
 ```
 
-### Installing
+### Running example
 
 A step by step series of examples that tell you how to get a development env running
 
